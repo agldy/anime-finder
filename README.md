@@ -3,4 +3,4 @@
 FInd your anime!
 
 __Contributor__
-- [agldy](github.com/agldy)
+- [agldy](https://github.com/agldy)
